@@ -1,4 +1,4 @@
-package com.example.anu.roomwordsample.entity;
+package com.example.anu.roomwordsample.data;
 
 import android.arch.persistence.room.ColumnInfo;
 import android.arch.persistence.room.Entity;
@@ -8,9 +8,7 @@ import android.support.annotation.NonNull;
 @Entity(tableName = "word_table")
 public class Word {
 
-    @PrimaryKey(autoGenerate = true)
-    private int id;
-    
+    @PrimaryKey
     @NonNull
     @ColumnInfo(name = "word")
     private String mWord;
