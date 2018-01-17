@@ -1,4 +1,4 @@
-package com.example.anu.roomwordsample.ui;
+package com.example.anu.roomwordsample.ui.viewmodel;
 
 import android.app.Application;
 import android.arch.lifecycle.AndroidViewModel;

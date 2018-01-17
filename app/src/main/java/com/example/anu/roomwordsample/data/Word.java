@@ -11,7 +11,7 @@ public class Word {
     @PrimaryKey
     @NonNull
     @ColumnInfo(name = "word")
-    private String mWord;
+    public String mWord;
 
     /**
      * word act as it's own primary key
