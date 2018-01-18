@@ -7,4 +7,4 @@ Works with a database to get and save the data, and pre-populates the database w
 Displays all the words in a RecyclerView in MainActivity.
 Opens a second activity when the user taps the + button. When the user enters a word, adds the word to the database and the list.
 
-[a link](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/index.html?index=..%2F..%2Findex#0)
+[Reference link](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/index.html?index=..%2F..%2Findex#0)
